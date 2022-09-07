@@ -21,7 +21,7 @@ Segmentasyon, bir diğer adıyla bölümleme ya da bölütleme; bir görüntüy�
   
  **Mask R-CNN Çalışma Aşamaları:**
  - İlk aşamada görüntü taranır ve önerileri üretilir
- - İkinci aşamada ise önerilen nesnelerin sınıfıları belirlenir sonrasında sınırlayaıcı kutular(bounding box) ve maskeler oluşturulur.
+ - İkinci aşamada ise önerilen nesnelerin sınıfıları belirlenir sonrasında sınırlayıcı kutular(bounding box) ve maskeler oluşturulur.
  
  <img
   src="https://miro.medium.com/max/1154/0*_p3LGIufAVslUhEw"
