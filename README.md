@@ -20,7 +20,7 @@ Segmentasyon, bir diğer adıyla bölümleme ya da bölütleme; bir görüntüy�
   - ResNet tabanlı CNN modelleri içerir
   
  **Mask R-CNN Çalışma Aşamaları:**
- - İLk aşamada görüntü taranır ve önerileri üretilir
+ - İlk aşamada görüntü taranır ve önerileri üretilir
  - İkinci aşamada ise önerilen nesnelerin sınıfıları belirlenir sonrasında sınırlayaıcı kutular(bounding box) ve maskeler oluşturulur.
  
  <img
